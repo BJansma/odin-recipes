@@ -1,1 +1,0 @@
-This is a assignment for the odin project online course. I'm going to make an recipe website to test my html and css skills.
