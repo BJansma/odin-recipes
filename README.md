@@ -1,0 +1,1 @@
+This is an assignment project for the odin project. I will be creating a recipe website with html.
